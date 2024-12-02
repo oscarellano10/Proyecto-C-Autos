@@ -1,12 +1,3 @@
 # Proyecto-C-Autos
 
-En este proyecto de programacion de C++ orientado a objetos, hare un catalogo para comprar un nuevo coche. Esto lo hare usando 3 clases diferentes, que corresponden a los 3 tipos de coche que el sitio estara vendiendo,
-Sedan, SUV y Deportivo. Cada uno tendra diferentes opciones. Los atributos seran el precio, marca, año, etc. Igual usare una clase de pago para poder realizar el pago del coche.
-
-Update 1:
-
-He hecho mi proyecto diferente a la idea inicial, ya que ahora tengo que involucrar los temas que vimos en clase de herencias y composición. Lo que mi programa hace es que va a ser un catalogo para comprar todo tipos de coches, SUV, Formula1, Deportivo, etc. (Ahorita solo tengo algunos de esos). Luego el usuario va a poder comprar el coche que quiera.
-
-Update 2:
-
-Ahora el usuario tiene la posibilidad de comprar los coches, puede comprar los SUVs o hasta los coches de F1.
+Para mi proyecto final para mi clase de programación. He decidido hacer un simulador interactivo de un catálogo de automóviles que permite a los usuarios explorar, comparar y comprar vehículos. Incluye distintos tipos de autos, como SUVs y Fórmula 1, con atributos como motor, marca, precio, modelo y velocidad máxima. Los usuarios pueden comparar modelos según características clave o realizar una compra simulada, ingresando información personal y eligiendo un plan de pago, con opción de financiamiento. Los usuarios van a a poder comparar cada uno y tiene la posibilidad de comprar los coches que quiera. Obviamente sale mucho más caro comprar un coche de F1 que un SUV entonces el usuario van a poder pagar usando prestamos. Dependiendo de los datos de cada persona, puede variar lo que tenga que pagar en su prestamo. 
