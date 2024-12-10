@@ -52,13 +52,14 @@ int main() {
     int option1;
     int option2;
 
-    cout << endl << "Tiene $" << money_available << ". Para comparar coches, presione 0. Para comprar, presione 1." << endl;
+    cout << endl << "Tiene $" << money_available << ". Para comparar coches, presione 0. Para comprar, presione 1. (Recomendado que precione 0)" << endl;
     cin >> option;
 
     if (option == 0) {
 
         cout << "Quiere comparar los SUVs o coches F1?" << endl;
         cout << "Presione 0 para SUVs y 1 para F1." << endl;
+        cout << "(Recomendado que presione 1 para comparar los coches F1)" << endl;
         cin >> option1;
 
         if (option1 == 0) {
